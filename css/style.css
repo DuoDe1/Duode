@@ -26,9 +26,9 @@ h6 {color: black; background-color: white; font-family: 'Oswald'; padding: 15% 2
 
 #contatti {color: white !important; background-color: black; padding-top: 8%; padding-bottom: 8%; text-align: center; font-family: 'Oswald', sans-serif; font-size: 1.5em}
 
-#bottonemail {color: black !important; border-color: black; background-color: white !important; margin-color: white !important; margin-top: 50px; font-family: 'Oswald', sans-serif;}
+#bottonemail {color: black !important; border-color: black; background-color: white !important; margin-color: white !important; margin-top: 50px; font-family: 'Oswald', sans-serif; font-size: 1.3em}
 
-#bottone {color: black !important; border-color: white; background-color: white !important; margin-color: black !important; margin-bottom: 30px;}
+#bottone {color: black !important; border-color: white; background-color: white !important; margin-color: black !important; margin-bottom: 30px; font-size: 1em}
 
 #members {color: white; text-align: center;padding: 15% 3px 15% 3px;}
 
